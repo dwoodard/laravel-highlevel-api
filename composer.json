@@ -1,0 +1,15 @@
+{
+    "name": "dwoodard/laravel-highlevel-api",
+    "autoload": {
+        "psr-4": {
+            "Dwoodard\\LaravelHighlevelApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dustin Woodard",
+            "email": "dustin.woodard@gmail.com"
+        }
+    ],
+    "require": {}
+}
